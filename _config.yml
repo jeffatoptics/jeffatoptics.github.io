@@ -1,0 +1,9 @@
+title: my web pages
+description: link to my dailynote and repository pages
+show_downloads: false
+logo: https://avatars.githubusercontent.com/u/94174882
+google_analytics:
+theme: jekyll-theme-minimal
+# theme: minima
+# minima:
+#   skin: dark
