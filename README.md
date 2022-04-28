@@ -8,4 +8,4 @@
 
 <img src="./assets/jeffatopticsbg.jpg" height=90% alt="sun_flower_tree" />
 
-![](./assets/jeffatopticsbg.jpg){:height=90%}
+![](./assets/jeffatopticsbg.jpg){: height="400"}
