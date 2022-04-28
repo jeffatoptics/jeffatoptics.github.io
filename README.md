@@ -9,7 +9,16 @@
 This is just a link page.
 
 
-if i have some words to say, i will put them into 🔗[my daily note](https://jeffatoptics.github.io/jeffblog)
+If i have some words to say, i will put them into 🔗[my daily note](https://jeffatoptics.github.io/jeffblog)
 
+---
 
-### 🍻 for the wonderful world!
+### 📖 My philosophy:
+
+- focus: get into a flow state
+
+- brave: make mistakes and then fix it.
+
+- jogging: refreshing myself
+
+### 🍻 for this wonderful world!
