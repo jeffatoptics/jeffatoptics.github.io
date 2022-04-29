@@ -9,7 +9,7 @@
 This is just a link page.
 
 
-If i have some words to say, i will put them into 🔗[my daily note](https://jeffatoptics.github.io/jeffblog)
+If I have some words to say, i will put them into my 🔗[Daily note](https://jeffatoptics.github.io/jeffblog), of course, mainly in 🇨🇳
 
 ---
 
