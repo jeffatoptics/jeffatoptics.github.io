@@ -1,4 +1,4 @@
-## My github pages projects
+## My github pages
 
 ---
 
