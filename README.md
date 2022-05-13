@@ -19,6 +19,6 @@ If I have some words to say, i will put them into my 🔗[Daily note](https://je
 
 - brave: make mistakes and then fix it.
 
-- jogging: refreshing myself
+- jogging: refreshing my body and mind
 
 ### 🍻 for this wonderful world!
